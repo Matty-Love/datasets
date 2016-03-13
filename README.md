@@ -30,12 +30,16 @@ $ tree
 │       └── enron6.zip
 ├── LICENSE
 ├── README.md
+├── reviews
+│   └── short_reviews
+│       ├── negative.txt
+│       ├── positive.txt
+│       └── README.md
 └── spelling
     └── spelling-birkbeck.csv
 
-4 directories, 13 files
+6 directories, 16 files
 
-tasdik at Acer in ~/Dropbox/projects/datasets on master
 $  
 ```
 
